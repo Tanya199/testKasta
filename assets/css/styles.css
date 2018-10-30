@@ -16,7 +16,6 @@ body {
     height: 100%;
     background-color: #f3f3f3;
 }
-
 .container{
     min-width: 320px;
 	max-width: 1300px;
@@ -39,7 +38,6 @@ body {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    
 }
 .ch-header-md{
     display: none;
@@ -79,7 +77,6 @@ body {
     text-transform: uppercase;
     color: #72747e;
 }
-
 .ch-header-cart{
     display: none;
 }
